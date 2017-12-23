@@ -112,3 +112,5 @@ google:
     analytics_id:
 baidu:
     analytics_id: 
+
+theme: jekyll-theme-merlot
