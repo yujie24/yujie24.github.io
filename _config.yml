@@ -10,7 +10,7 @@ description: "芒果鱼的个人博客"
 keywords: 代码, JamesYu, 个人博客
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 6
+side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
@@ -31,20 +31,20 @@ navs:
     label: 首页
 
   -
-    href: /categories/
-    label: 分类
+    href: 
+    label: 
 
   -
-    href: /wiki/
-    label: 维基
+    href: 
+    label: 
 
   -
-    href: /links/
-    label: 链接
+    href: 
+    label: 
 
   -
-    href: /about/
-    label: 关于
+    href: 
+    label: 
 
 # ---------------- #
 #       RSS        #
@@ -61,7 +61,7 @@ highlighter: rouge
 paginate: 8
 lsi: false
 quiet: false
-excerpt_separator: "\n\n\n"
+excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
 gems:
     - jekyll-github-metadata
@@ -113,4 +113,4 @@ google:
 baidu:
     analytics_id: 
 
-theme: jekyll-theme-cayman
+theme: git-wiki
