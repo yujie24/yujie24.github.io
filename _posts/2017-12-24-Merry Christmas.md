@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: 平安夜
-categories: [日记]
+category: 日记
 description: 历时大半年，paper终于还是接收了
 keywords: 圣诞，paper
 ---
