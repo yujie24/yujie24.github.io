@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-我是James，喜欢文学的理科生，物理学士，材料学硕士。
+我是James
 
 我也仰慕「优雅编码的艺术」。
 
@@ -17,6 +17,8 @@ permalink: /about/
 IF YOU REALLLY WANT IT!
 
 身体力行，live everyday with “Mamba Mentality”！
+
+很惭愧，做的贡献真的太小。
 
 ## 联系
 
