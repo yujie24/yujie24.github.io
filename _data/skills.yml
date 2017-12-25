@@ -19,6 +19,6 @@
 #      - WinDbg
 
 - name: Program Language
-   keyworkds:
-       - Python
+  keyworkds:
+      - Python
        
