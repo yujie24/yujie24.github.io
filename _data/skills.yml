@@ -19,6 +19,7 @@
 #      - WinDbg
 
 - name: Program Language
-  keyworkds:
+  keywords:
       - Python
+      - Matlab
        
