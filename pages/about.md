@@ -27,6 +27,8 @@ IF YOU REALLLY WANT IT!
 ## Skill Keywords
 
 {% for category in site.data.skills %}
+
+
 ### {{ category.name }}
 <div class="btn-inline">
 {% for keyword in category.keywords %}
