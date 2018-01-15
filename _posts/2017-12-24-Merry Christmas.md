@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 平安夜
 category: Diary
 description: 历时大半年，paper终于还是接收了
