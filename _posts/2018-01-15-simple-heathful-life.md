@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 健康极简生活
+title: 极简主义
 categories: [阅读, 读书笔记]
 description: 
 keywords: 极简生活，有川真由美
