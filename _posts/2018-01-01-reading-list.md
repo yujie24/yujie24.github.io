@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018书单
+title: 2018书单（更新中）
 categories: [阅读, 记录]
 description: 计划并记录2018年书单
 keywords: 2018,书单, 
@@ -21,10 +21,11 @@ keywords: 2018,书单,
 |    影视原著    |        《芳华》        |      严歌苓    | 01.01 |       |
 |                |                        |                |       |       |
 |                |                        |                |       |       |
-|    哲学心理    |《The defining decade》 | 【美】Meg Jay  |       |       |
+|    哲学心理    |《The defining decade》 | 【美】Meg Jay  | 01.01 |       |
 |                |                        |                |       |       |
 |                |                        |                |       |       |
 |    计 算 机    |《小甲鱼入门学习Python》|     小甲鱼     | 01.01 |       |
+|                | 挑战编程技能：57道程序员功力测试题| 【美】Brian P.Hogan | 01.01 |       |
 |                |                        |                |       |       |
 |                |                        |                |       |       |
 |    专业书籍    |    《OLED显示概论》    | 【日】辻村隆俊 |       |       |
